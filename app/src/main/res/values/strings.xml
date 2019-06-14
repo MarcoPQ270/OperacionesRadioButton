@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App-RadioButton</string>
+    <string name="txt_valor1">Ingrese el primer numero</string>
+    <string name="txt_valor2">Ingresa el segundo numero</string>
+    <string name="rb1">Sumar</string>
+    <string name="rb2">Restar</string>
+    <string name="rb3">Multiplicar</string>
+    <string name="rb4">Dividir</string>
+    <string name="button">Calcular</string>
+    <string name="tvres">Resultado</string>
+</resources>
